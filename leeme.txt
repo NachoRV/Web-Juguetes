@@ -1,0 +1,2 @@
+El fichero de la conexión a la base de datos esta en la carpeta php -> conexionBBDD.php
+Ruta de acceso a la web colgada en el servidor: http://irvdeveloper.esy.es 

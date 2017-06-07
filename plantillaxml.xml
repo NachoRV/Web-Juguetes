@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<fechaCreacion></fechaCreacion>
+<fechaActualizacion></fechaActualizacion>
+<idXML></idXML>
+<orefta>
+	<idOferta></idOferta>
+	<fechaInicioOferta></fechaInicioOferta>
+	<fechaFinOferta></fechaFinOferta>
+	<idJuguete></idJuguete>
+	<nombreJuguete></nombreJuguete>
+	<idTienda></idTienda>
+	<ubicacionTienda></ubicacionTienda>
+</orefta>
+
+
+
+</document>

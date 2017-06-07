@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <fechaCreacion>2017/05/28 16:21:30</fechaCreacion>
+  <fechaActualizacion>2017/06/02 08:28:09</fechaActualizacion>
+  <idXML>7</idXML>
+  <ofertas>
+    <oferta>
+      <idOferta>2</idOferta>
+      <fechaInicio>2017-04-02</fechaInicio>
+      <fechaFin>2017-05-05</fechaFin>
+      <idProducto>1</idProducto>
+      <Juguete>Coche Electrico </Juguete>
+      <idTienda>4</idTienda>
+      <tienda>Madrid</tienda>
+    </oferta>
+    <oferta>
+      <idOferta>3</idOferta>
+      <fechaInicio>2017-04-25</fechaInicio>
+      <fechaFin>2017-04-30</fechaFin>
+      <idProducto>3</idProducto>
+      <Juguete>Cubo Rubik</Juguete>
+      <idTienda>5</idTienda>
+      <tienda>Valencia</tienda>
+    </oferta>
+    <oferta>
+      <idOferta>4</idOferta>
+      <fechaInicio>2017-03-01</fechaInicio>
+      <fechaFin>2017-03-31</fechaFin>
+      <idProducto>4</idProducto>
+      <Juguete>Miki</Juguete>
+      <idTienda>6</idTienda>
+      <tienda>Murcia</tienda>
+    </oferta>
+    <oferta>
+      <idOferta>9</idOferta>
+      <fechaInicio>2017-04-25</fechaInicio>
+      <fechaFin>2017-04-29</fechaFin>
+      <idProducto>6</idProducto>
+      <Juguete>Hombre Araña</Juguete>
+      <idTienda>4</idTienda>
+      <tienda>Madrid</tienda>
+    </oferta>
+    <oferta>
+      <idOferta>11</idOferta>
+      <fechaInicio>0000-00-00</fechaInicio>
+      <fechaFin>2017-04-30</fechaFin>
+      <idProducto>20</idProducto>
+      <Juguete>Barbi</Juguete>
+      <idTienda>18</idTienda>
+      <tienda>Madrid</tienda>
+    </oferta>
+  </ofertas>
+</document>

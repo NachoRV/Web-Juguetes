@@ -1,0 +1,4 @@
+ID: 7
+Fecha de Creacion: 2017/05/28 16:21:30
+Fecha de Actualizacion: 2017/06/02 08:28:09
+Trabajador: Nacho
